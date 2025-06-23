@@ -8,10 +8,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "fs": "^0.0.1-security"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaylaneleticia10/CRUD_M-sicas_Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kaylaneleticia10/CRUD_M-sicas_Backend/issues"
+  },
+  "homepage": "https://github.com/kaylaneleticia10/CRUD_M-sicas_Backend#readme",
+  "description": ""
 }
