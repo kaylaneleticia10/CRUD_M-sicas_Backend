@@ -4,6 +4,7 @@ const cors = require("cors");
 const app = express();
 
 const allowedOrigins = [
+  "https://crud-musicas-frontend.vercel.app", // ou o novo link real
   "https://crud-musicas-frontend-git-main-kaylane-leticias-projects.vercel.app"
 ];
 
